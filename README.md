@@ -1,3 +1,3 @@
 # assignments
 This contains my assignments
-http://localhost:8889/notebooks/Assignment_week_4-Copy1.ipynb#
+assignent week 4:http://localhost:8890/notebooks/Assignment_week_4_Good.ipynb#
